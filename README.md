@@ -37,9 +37,6 @@ Source: [Our World in Data - COVID-19 Dataset](https://ourworldindata.org/corona
 
 - Jupyter notebook: `covid19_global_data_tracker.ipynb`
 - CSV file: `owid-covid-data.csv`
-- Screenshots: (Optional, for GitHub preview)
-
----
 
 ## Insights 
 
